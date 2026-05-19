@@ -1,17 +1,22 @@
-# CodeAlpha_Calculator
+# CodeAlpha Calculator
+
 A fully functional iPhone-style calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 - Addition, Subtraction, Multiplication, Division
-- Modern iPhone-style UI
+- iPhone-style Calculator UI
 - Responsive Design
-- Clear and Delete Buttons
+- AC and Delete Buttons
 - Fully Functional Calculator
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
+
+## Project Screenshot
+
+![Calculator Preview](calculator-preview.png)
 
 ## Developed By
 Ansa Shabbir
