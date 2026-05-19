@@ -16,7 +16,7 @@ A fully functional iPhone-style calculator built using HTML, CSS, and JavaScript
 
 ## Project Screenshot
 
-![Calculator Preview](calculator-preview.png)
+![Calculator Preview](Calculator-preview.png)
 
 ## Developed By
 Ansa Shabbir
