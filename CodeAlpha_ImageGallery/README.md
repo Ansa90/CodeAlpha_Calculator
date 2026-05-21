@@ -70,6 +70,4 @@ BSIT Graduate | Web Developer | MERN Stack Learner
 ---
 
 ## 🔗 GitHub Repository
-
-[
-](https://github.com/Ansa90/CodeAlpha_Tasks/tree/main/CodeAlpha_ImageGallery)
+(https://github.com/Ansa90/CodeAlpha_Tasks/tree/main/CodeAlpha_ImageGallery)
