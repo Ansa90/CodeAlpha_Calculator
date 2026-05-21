@@ -29,7 +29,6 @@ This project features a stylish dashboard-style UI with smooth hover effects, li
 
 ## 📸 Project Preview
 
-```markdown
 ![Project Preview 1 ](Gallery_Preview1.png)
 ![Project Preview 2 ](Gallery_Preview2.png)
 
