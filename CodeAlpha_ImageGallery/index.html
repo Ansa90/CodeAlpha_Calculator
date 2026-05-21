@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Premium Image Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>✨ My Image Gallery ✨</h1>
+        <p>Beautiful Moments Captured</p>
+    </header>
+
+    <!-- Filter Buttons -->
+    <div class="filter-buttons">
+        <button class="active">All</button>
+        <button>Nature</button>
+        <button>Travel</button>
+        <button>Food</button>
+    </div>
+
+    <!-- Gallery -->
+    <section class="gallery">
+
+        <div class="card">
+            <img src="images/image1.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image2.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image3.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image4.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image5.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image6.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image7.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+        <div class="card">
+            <img src="images/image8.jpg" onclick="openLightbox(this.src)">
+        </div>
+
+    </section>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox">
+
+        <span class="close" onclick="closeLightbox()">×</span>
+
+        <button class="prev" onclick="changeImage(-1)">❮</button>
+
+        <img id="lightbox-img">
+
+        <button class="next" onclick="changeImage(1)">❯</button>
+
+    </div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
