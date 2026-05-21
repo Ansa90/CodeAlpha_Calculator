@@ -29,12 +29,10 @@ This project features a stylish dashboard-style UI with smooth hover effects, li
 
 ## 📸 Project Preview
 
-(Add your screenshot here after uploading image)
-
-Example:
-
 ```markdown
-![Project Preview](gallery-preview.png)
+![Project Preview](Gallery_Preview1.png)
+![Project Preview](Gallery_Preview2.png)
+
 ```
 
 ---
