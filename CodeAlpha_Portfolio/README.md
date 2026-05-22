@@ -52,8 +52,9 @@ Created responsive and business-based websites using WordPress.
 
 Upload your portfolio screenshot and add:
 
-```markdown
-![Portfolio Preview](portfolio-preview.png)
+![Portfolio Preview](Portfolio-preview1.png)
+![Portfolio Preview](Portfolio-preview2.png)
+
 ```
 
 ---
